@@ -9,6 +9,11 @@ The application allows users to select a stock, choose a date range, inspect his
 
 ![Stock Return Calculator application overview](screenshots/app-overview.png)
 
+## Live Demo
+
+[Open the Stock Return Calculator](https://stock-return-calculator.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stock-return-calculator.streamlit.app/)
 
 ## Features
 
