@@ -7,7 +7,7 @@ The application allows users to select a stock, choose a date range, inspect his
 ## Application Preview
 
 
-![Stock Return Calculator application overview](screenshots/app-overview.png)
+![Stock Return Calculator application overview](https://github.com/aafrinfa/stock-return-calculator/blob/main/screenshots/overview.png)
 
 ## Live Demo
 
